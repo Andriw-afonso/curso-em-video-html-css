@@ -1,0 +1,30 @@
+// Título
+<h1>Título</h1>
+
+// Paragrafo
+<p>Olá</p>
+
+// Adicionado imagem
+<img src="foto.png" alt="Exemplo de foto">
+
+// Editando o estilo do titulo em css
+h1{
+    font-family: Arial;
+    font-size: 20pt;
+    color: blue;
+}
+
+// Estrutura basica do documento HTML
+<! DOCTYPE html>
+<html lang="pt-bt">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+        content="width=device-width",
+        initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Olá, Mundo !</h1>
+    </body>
+</html>
