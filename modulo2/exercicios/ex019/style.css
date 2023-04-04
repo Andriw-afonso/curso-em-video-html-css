@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(74, 235, 181);
+}
+
+h1{
+    color: rgb(9, 124, 86);
+}
+
+h1#principal{
+    text-align: center;
+    color: blue;
+}
+
+h2{
+    color:rgb(45, 99, 81);
+}
+
+.basico{
+    color:rgb(236, 43, 43);
+    font-weight: bold;
+}
+
+.intermediario{
+    color:rgb(236, 233, 23);
+    font-weight: bold;
+}
+
+.avançado{
+    color:rgb(13, 187, 22);
+    font-weight: bold;
+}
+
+.destaque{
+    background-color: blueviolet;
+}
